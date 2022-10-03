@@ -5,14 +5,12 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	
 	<version>0.0.2</version> 
 	
 	<name>maven-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
-
-	<organization>
+        <organization>
 		<name>Landmark Technologies</name>
 		<url>http://landmarktechnologies.com/</url>
 	</organization>
@@ -92,7 +90,9 @@
 		</dependency>
 		
 	</dependencies>
+	
 	<distributionManagement>
+	
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
@@ -104,11 +104,10 @@
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://54.218.52.43:8081/repository/tesla1-snapshots</url>
 	    </snapshotRepository>
-	    
-	</distributionManagement>
+	    </distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>myapps</finalName>
 		
 		<plugins>
 			<plugin>
