@@ -13,21 +13,7 @@
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	           We are raising over millionaires in IT.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
-<hr>
-<br>
-	<h1><h3> Server Side IP Address </h3><br>
-
-<% 
-String ip = "";
-InetAddress inetAddress = InetAddress.getLocalHost();
-ip = inetAddress.getHostAddress();
-out.println("Server Host Name :: "+inetAddress.getHostName()); 
-%>
-<br>
-<%out.println("Server IP Address :: "+ip);%>
-		
-</h1>
-	
+<h1 align="center"> DevOps is good. Jesus is Lord Forever. I am Blessed. Production.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
