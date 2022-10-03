@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
-<link href="images/mylandmarklogo.png" rel="icon">
+<title>Dappa Technologies- Home Page</title>
+<link href="https://https://res.cloudinary.com/teepublic/image/private/s--qwAkezE0--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1587872019/production/designs/9491216_0.jpg rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Tesla Project.</h1>
+<h1 align="center">Welcome to Dappa Tesla Project.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	           We are raising over millionaires in IT.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
